@@ -1,11 +1,7 @@
-## Задание 47
+## Итоговое задание
 
-[Код](https://github.com/Tanyavers/HW/blob/HW7/Task47/Program.cs)
+Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам
 
-## Задание 50
+[Код](https://github.com/Tanyavers/Task/blob/master/Program.cs)
 
-[Код](https://github.com/Tanyavers/HW/blob/HW7/Task50/Program.cs)
-
-## Задание 52
-
-[Код](https://github.com/Tanyavers/HW/blob/HW7/Task52/Program.cs)
+[Блок схема](https://github.com/Tanyavers/Task/blob/master/.drawio.png)
